@@ -5,7 +5,7 @@ Este projeto tem como objetivo implementar progressivamente e de forma didática
 O frontend da aplicação foi desenvolvido com HTML, CSS e JavaScript e o backend foi simulado pela implementação de uma API Fake, usando o JSON Server.
 
 ## Design das Telas - Figma: 
-https://www.figma.com/design/eTlqNUuxWi4UemQZZx5zWm/Projeto---DPWFC?node-id=4-3&node-type=canvas&t=5Z7jdXUg8VSyOtST-0
+https://www.figma.com/design/eTlqNUuxWi4UemQZZx5zWm/Projeto---DPWFC?node-id=45-81&t=iJpzmtUZpmMdLi7M-1
 
 ## Design System: 
 Link para o PDF
