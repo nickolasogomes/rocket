@@ -8,6 +8,11 @@
   "keywords": [],
   "author": "Níckolas Gomes",
   "license": "ISC",
-  "description": "Projeto desenvolvido para obtenção de nota na disciplina de Desenvolvimento de páginas web com framework e css."
+  "description": "Projeto desenvolvido para obtenção de nota na disciplina de Desenvolvimento de páginas web com framework e css.",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
 }
-
