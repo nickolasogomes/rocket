@@ -11,7 +11,7 @@ https://www.figma.com/design/eTlqNUuxWi4UemQZZx5zWm/Projeto---DPWFC?node-id=45-8
 Link para o PDF
 
 ## Site em Produção - GitHub Pages
-https://github.com/nickolasogomes/UTFPR-DPWFC-Projeto
+https://github.com/nickolasogomes/rocket
 
 ## Framework CSS
 **Bootstrap**
