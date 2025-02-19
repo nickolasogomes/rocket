@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rocket | Cursos</title>
+  <!-- Bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+  <!-- Font Awesome -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+  <!-- CSS customizado -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark shadow-sm">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">
+        <img src="img/Rocket-Azul.svg" alt="Logo" height="35">
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Alternar navegação">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="index.html">Início</a></li>
+          <li class="nav-item"><a class="nav-link active" href="cursos.html">Cursos</a></li>
+          <li class="nav-item"><a class="nav-link" href="login.html">Login</a></li>
+          <li class="nav-item"><a class="nav-link" href="cadastro.html">Cadastro</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Conteúdo dos Cursos -->
+  <main class="py-5">
+    <div class="container">
+      <h2 class="mb-4 text-center">Cursos em Destaque</h2>
+      <div id="highlightCoursesCarousel" class="carousel slide mb-6" data-bs-ride="carousel">
+        <div class="carousel-inner" id="highlightCoursesContent">
+          <!-- Conteúdo carregado via JavaScript -->
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#highlightCoursesCarousel"
+          data-bs-slide="prev">
+          <span class="carousel-control-prev-icon"></span>
+          <span class="visually-hidden">Anterior</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#highlightCoursesCarousel"
+          data-bs-slide="next">
+          <span class="carousel-control-next-icon"></span>
+          <span class="visually-hidden">Próximo</span>
+        </button>
+      </div>
+
+      <h2 class="mb-4 text-center">Outros Cursos</h2>
+      <div class="row" id="otherCoursesContainer">
+        <!-- Cards de cursos carregados via API -->
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="py-4">
+    <div class="container text-start">
+      <div class="row">
+        <div class="col-md-4">
+          <div id="logo-footer" class="mb-3">
+            <a href="index.html">
+              <img src="img/Rocket-Branco.svg" alt="Logo" height="35">
+            </a>
+          </div>
+          <p class="text-secondary">Rocket é uma empresa brasileira legalmente estabelecida que presta serviços
+            educacionais a distância e consultoria para empresas.</p>
+
+          <!-- Links -->
+          <div class="col-12">
+            <h6>Links</h6>
+          </div>
+          <div class="row">
+            <div class="col-3"><a href="cursos.html">Cursos</a></div>
+            <div class="col-3"><a href="login.html">Login</a></div>
+            <div class="col-3"><a href="cadastro.html">Cadastro</a></div>
+          </div>
+        </div>
+
+        <!-- Submenu "ùltimas do Blog" -->
+        <div class="col-md-4 mt-2 d-flex flex-column align-items-start">
+          <div class="col-12" id="logo-footer">
+            <h6 class="">Últimas do Blog</h6>
+          </div>
+          <a href="#" class="text-secondary">Curso de Inteligência Artificial</a>
+          <a href="#" class="text-secondary">Explorando Aplicações de IA</a>
+          <a href="#" class="text-secondary">Inteligência Artificial no Marketing Digital</a>
+          <a href="#" class="text-secondary">Marketing Digital com Inteligência Artificial</a>
+        </div>
+
+        <!-- Submenu "Acompanhe" -->
+        <div class="col-md-4 mt-2 d-flex flex-column align-items-md-center align-items-sm-start text-sm-start "
+          id="logo-footer">
+          <div clas="col-12" id="logo-footer">
+            <h6 class="text-sm-start">Acompanhe</h6>
+          </div>
+
+          <div class="row d-flex justify-content-md-center justify-content-sm-start">
+            <div class="col-2">
+              <a href="#" target="_blank" class="social-icon fa-2x">
+                <i class="fab fa-instagram"></i>
+              </a>
+            </div>
+            <div class="col-2">
+              <a href="#" target="_blank" class="social-icon fa-2x">
+                <i class="fab fa-facebook"></i>
+              </a>
+            </div>
+            <div class="col-2">
+              <a href="#" target="_blank" class="social-icon fa-2x">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </div>
+            <div class="col-2">
+              <a href="#" target="_blank" class="social-icon fa-2x">
+                <i class="fab fa-youtube"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </footer>
+
+
+  <!-- Bootstrap 5 JS Bundle -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <!-- jQuery -->
+  <script src="node_modules/jquery/dist/jquery.min.js"></script>
+  <script src="node_modules/jquery-mask-plugin/dist/jquery.mask.min.js"></script>
+  <!-- Script customizado -->
+  <script src="js/main.js"></script>
+</body>
+
+</html>
