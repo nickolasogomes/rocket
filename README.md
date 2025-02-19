@@ -1,11 +1,11 @@
-# Curso Express 
+# Rocket 
 ### **Autor:** Níckolas Gomes
 Este projeto tem como objetivo implementar progressivamente e de forma didática uma aplicação web inspirada em plataformas de cursos online.
 
 O frontend da aplicação foi desenvolvido com HTML, CSS e JavaScript e o backend foi simulado pela implementação de uma API Fake, usando o JSON Server.
 
 ## Design das Telas - Figma: 
-https://www.figma.com/design/eTlqNUuxWi4UemQZZx5zWm/Projeto---DPWFC?node-id=45-81&t=iJpzmtUZpmMdLi7M-1
+[https://www.figma.com/design/eTlqNUuxWi4UemQZZx5zWm/Projeto---DPWFC?node-id=45-81&t=iJpzmtUZpmMdLi7M-1](https://www.figma.com/design/Q3GkbfpFtC386qUa4ZHioX/Prototipa%C3%A7%C3%A3o-de-Telas-e-Design-System?node-id=18-2&t=J5VRF2SvU8VoJSR7-1)
 
 ## Design System: 
 Link para o PDF
@@ -23,7 +23,7 @@ https://github.com/nickolasogomes/rocket
 ## Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 
 #### RA1 - Utilizar Frameworks CSS para estilização de elementos HTML e criação de layouts responsivos.
-- [ ] ID0 - Prototipa interfaces adaptáveis para no mínimo os tamanhos de tela mobile e desktop, usando ferramentas de design como Figma, Quant UX ou Sketch.
+- [x] ID0 - Prototipa interfaces adaptáveis para no mínimo os tamanhos de tela mobile e desktop, usando ferramentas de design como Figma, Quant UX ou Sketch.
 - [x] ID 01 - Implementa um layout responsivo de uma página web utilizando um Framework CSS, como Bootstrap, Materialize ou Tailwind (com DaisyUI), aproveitando as técnicas de Flexbox ou Grid oferecidas pelo próprio framework, garantindo que o layout se adapte adequadamente a diferentes tamanhos de tela e dispositivos.
 - [x] ID 02 - Utiliza técnicas nativas de CSS, como Flexbox ou Grid Layout, para criar layouts responsivos e fluidos em diferentes resoluções de tela.
 - [x] ID 03 - Utiliza os componentes CSS e JavaScript oferecidos por um Framework CSS, como cards, modais, carrosséis ou qualquer outro, aplicando estilos personalizados conforme o necessário.
