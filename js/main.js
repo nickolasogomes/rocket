@@ -104,7 +104,7 @@ $(function() {
     fetch("https://udemy-paid-courses-for-free-api.p.rapidapi.com/rapidapi/courses/search?page=1&page_size=15&query=python", {
       method: "GET",
       headers: {
-        "X-Rapidapi-Key": "1f99cd2e7cmshe6e0ccdb3b38a5ep180123jsn60a2d56ac7fe",
+        "X-Rapidapi-Key": "ab0d264becmsh572292e3d024a68p14a0bfjsnf1059247d6b0",
         "X-Rapidapi-Host": "udemy-paid-courses-for-free-api.p.rapidapi.com"
       }
     })

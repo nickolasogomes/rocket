@@ -8,7 +8,7 @@ O frontend da aplicação foi desenvolvido com HTML, CSS e JavaScript e o backen
 [https://www.figma.com/design/eTlqNUuxWi4UemQZZx5zWm/Projeto---DPWFC?node-id=45-81&t=iJpzmtUZpmMdLi7M-1](https://www.figma.com/design/Q3GkbfpFtC386qUa4ZHioX/Prototipa%C3%A7%C3%A3o-de-Telas-e-Design-System?node-id=18-2&t=J5VRF2SvU8VoJSR7-1)
 
 ## Design System: 
-Link para o PDF
+https://www.figma.com/design/Q3GkbfpFtC386qUa4ZHioX/Prototipa%C3%A7%C3%A3o-de-Telas-e-Design-System?node-id=1-28&p=f&t=vqXLu3ouUiWa1JEU-0
 
 ## Site em Produção - GitHub Pages
 https://github.com/nickolasogomes/rocket
@@ -77,4 +77,7 @@ https://github.com/nickolasogomes/rocket
 - Executar o projeto frontend.
 
 ## Telas da aplicação
+
+## Video - (avaliação)
+https://drive.google.com/file/d/11OglguU_Iku5mG_WGh1W8WWz0mr_cuv1/view?usp=sharing
 
