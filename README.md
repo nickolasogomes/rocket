@@ -78,6 +78,4 @@ https://github.com/nickolasogomes/rocket
 
 ## Telas da aplicação
 
-## Video - (avaliação)
-https://drive.google.com/file/d/11OglguU_Iku5mG_WGh1W8WWz0mr_cuv1/view?usp=sharing
 
